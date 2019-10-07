@@ -3,14 +3,20 @@ body{
     color: #ffffff;
     font-family: 'Noto Sans', monospace;
     font-weight: bold;
+
     
-    ::selection {
-    background: #ff00ff; /* WebKit/Blink Browsers */
-    }
-    ::-moz-selection {
-    background: #ff00ff; /* Gecko Browsers */
-    }
 }
+
+
+::selection {
+    color: white;
+    background: #ff00ff;
+}
+::-moz-selection {
+    color: white;
+    background: #ff00ff;
+}
+
 
 #timer{
     position: absolute;
