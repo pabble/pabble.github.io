@@ -3,6 +3,13 @@ body{
     color: #ffffff;
     font-family: 'Noto Sans', monospace;
     font-weight: bold;
+    
+    ::selection {
+    background: #ff00ff; /* WebKit/Blink Browsers */
+    }
+    ::-moz-selection {
+    background: #ff00ff; /* Gecko Browsers */
+    }
 }
 
 #timer{
