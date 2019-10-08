@@ -1,2 +1,2 @@
 ## pabble.github.io
-in this repository is hosted my web :)
+repo for hosting my [web](https://pabble.github.io) :)
