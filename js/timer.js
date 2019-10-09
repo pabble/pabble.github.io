@@ -2,6 +2,7 @@
 
 var timer = document.getElementById("timer");
 var date = new Date("Dec 10, 2019 17:00:00").getTime();
+document.getElementById("fake").innerHTML = "pabble";
 
 
 updatetimer();
@@ -34,10 +35,3 @@ function updatetimer(){
     }
 
 }
-
-
-function pad(nm, width, zxc) {
-    zxc = zxc || '0';
-    nm = nm + '';
-    return nm.length >= width ? nm : new Array(width - nm.length + 1).join(zxc) + nm;
-  }
