@@ -20,7 +20,7 @@ body{
 }
 
 #comingsoon{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: sans-serif;
     font-size: 3vw;
     letter-spacing: 0.25vw;
     font-weight: 500;
@@ -28,21 +28,21 @@ body{
 
 #fake{
     font-size: 10vw;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: sans-serif;
     margin-left: 0.5vw;
 
     opacity: 0;
 }
 
 #timer{
-    font-family: 'Noto Sans', monospace;
+    font-family: monospace;
     font-weight: bold;
 
     font-size: 3.5vw;
 }
 
 #pabble{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: sans-serif;
     font-size: 10vw;
 }
 
