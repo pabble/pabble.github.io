@@ -1,0 +1,85 @@
+body{
+    background-color: #212121;
+    color: #ffffff;
+}
+
+#center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#comingsoon{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 3vw;
+    letter-spacing: 0.25vw;
+    font-weight: 500;
+}
+
+#fake{
+    font-size: 10vw;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 0.5vw;
+
+    opacity: 0;
+}
+
+#timer{
+    font-family: 'Noto Sans', monospace;
+    font-weight: bold;
+
+    font-size: 3.5vw;
+}
+
+#pabble{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 10vw;
+}
+
+#r{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+    color: #FF0000;
+    mix-blend-mode: difference;
+}
+#g{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+    color: #00FF00;
+    mix-blend-mode: difference;
+}
+#b{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+    color: #0000FF;
+    mix-blend-mode: difference;
+}
+
+
+::selection {
+    color: white;
+    background: magenta;
+}
+::-moz-selection {
+    color: white;
+    background: magenta;
+}
