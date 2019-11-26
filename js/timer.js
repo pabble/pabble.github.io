@@ -25,7 +25,7 @@ function updatetimer(){
     minutes = pad(minutes, 2);
     seconds = pad(seconds, 2);
 
-    timer.innerHTML = days + " _ " + hours + ":" + minutes + ":" + seconds + "";
+    timer.innerHTML = days + "d _ " + hours + ":" + minutes + ":" + seconds + "";
 
     if (distance <= 0) {
         clearInterval(interval);
