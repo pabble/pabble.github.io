@@ -1,5 +1,5 @@
 var timer = document.getElementById("timer");
-var date = new Date("Dec 19, 2019 08:37:00").getTime();
+var date = new Date("Dec 19, 2019 11:00:00").getTime();
 document.getElementById("fake").innerHTML = "pabble";
 
 
