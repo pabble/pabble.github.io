@@ -1,0 +1,560 @@
+html,body{height:100%}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;vertical-align:baseline;background:transparent;font-family:arial}input,textarea{font-family:arial;font-size:12px;vertical-align:middle}body{font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;line-height:1;margin:0;background:url("http://images29.bangbros.com/bangbrosnetwork/tour1/body.jpg")}ol,ul{list-style:none}blockquote,q{quotes:none}a{cursor:pointer;text-decoration:underline;color:#0000F8}a:hover{text-decoration:none}:focus{outline:0}.clearfix:after{content:" ";display:block;clear:both;visibility:hidden;line-height:0;height:0}.clearfix{display:inline-block}html
+.clearfix{display:block}.clear{clear:both}.noPadding{padding:0
+!important}.noPadingtop{padding-top:0!important}.noPaddingRT{padding-right:0 !important}.noPaddingLT{padding-left:0 !important}.noMargin{margin:0
+!important}.noMarginRT{margin-right:0 !important}.noMarginLT{margin-left:0 !important}.noMarginBT{margin-bottom:0 !important}.noBorderLT{border-left:none !important}.noBorderRT{border-right:none!important}.noBorder{border:none !important}.no-bg{background:none!important}.noPadding-top{padding-top:0px!important}.dsplyBlock{display:block}.clearAll{clear:both;height:0;font-size:0}h2{font-size:18px}h3{font-size:12px}h5{font-size:17px}.fleft{float:left}.fright{float:right}.margRight{margin-right:10px}.paddTop{padding-top:18px !important}.paddLT{padding:18px
+15px 0px 15px}.padLR{padding-left:14px !important;padding-right:14px !important}.pageWidth{width:990px;margin-left:auto;margin-right:auto}.mv-videos{width:100%;height:334px;display:block;position:relative}.vid-img{height:100%;width:100%;float:left;overflow:hidden}.mv-stats{position:absolute;top:312px;width:990px;display:none}.mv-padd{padding:6px
+0px 0px 12px;position:absolute;z-index:1000}.vid-play{float:left;width:41px;height:41px;background-color:#fff;margin:4px
+0px 0px 0px}.vid-play
+b{width:25px;height:29px;background:url("http://images22.bangbros.com/bangbrosnetwork/tour1/arrow.png") no-repeat;float:left;margin:6px
+0px 0px 9px}.vid-desc{float:left;margin:0px
+0px 0px 8px}.vid-title{color:#444;float:left;width:100%;font-size:23px;font-weight:bold;padding:3px
+0px 0px 3px}.vid-link{float:left;width:100%;padding:5px
+0px 0px 4px;font-size:12px;color:#ffff01;font-weight:bold}.mv-overlay{height:60px;margin:0px;overflow:hidden;position:absolute;width:990px}.vid-title a, .vid-link
+a{color:#fefe00}.menu-item,.h2-title-bg{background:#000;height:46px;color:#fff;width:990px}.menu-item{font-size:21px;font-weight:bold}.menu-item
+ul{margin:0px;padding:0
+0 0 33px}.menu-item ul
+li{display:inline;float:left;text-align:center;padding:3px
+0 0 0;line-height:0.7em}.menu-item ul li
+span{font-size:11px;font-family:arial;font-weight:normal}.menu-item ul li
+a{font-size:18px;font-weight:bold}.menu-item ul li.menu-broder-rt{border-right:1px solid #555;padding:12px
+0 0 18px;margin:27px
+18px 0 0}.menu-item
+a{color:#fff;text-decoration:none}.menu-item a:hover{color:#79d5ff;text-decoration:none}.menu-item a.join-now{color:#fb841e;text-decoration:none}.menu-item a.join-now:hover{color:#fffe01;text-decoration:none}.menu-border-mid{padding:13px
+0px 0px 12px !important;margin:27px
+18px 0px 0px !important}.menu-border-last{padding:13px
+0px 0px 14px !important;margin:27px
+13px 0px 0px !important}.contentarea{background:#fff}.joinbg{background:#eaeaea}.footer-join{background:#eaeaea;border-top:1px solid #fff}.border-btm{border-top:1px solid #ebebeb;padding:0px
+3px 18px 17px}.footer-nav,.footer-join{color:#000;padding:1px
+10px 5px 17px;text-align:center;font-size:11px;font-weight:bold}.footer-nav{background-color:#fff;padding:0px
+0px 0px 0px}.footer-nav strong, .footer-join
+strong{font-size:14px}.footer-nav
+ul{margin:0px;padding:13px
+0px 15px 0px}.footer-nav ul
+li{display:inline;padding:10px
+1px 10px 1px}.footer-nav p, .footer-join p.footer-text{font-size:11px;font-weight:normal;line-height:13px;text-align:left}.footer-nav
+p{padding:0px
+15px 5px 15px}.footer-join p.footer-text{padding:18px
+15px 8px 18px}.footer-nav
+a{}.f-border{border-top:1px solid #EBEBEB;padding:17px
+0px 0px 0px}.h2-title{font-size:21px;text-align:center;padding:18px
+0px 0px 0px}.h2-title
+a{color:#fff}.h2-title a:hover{color:#fffe01}.memberform{width:505px;background:#fff;float:left;position:relative}.memberform .h3-title{background:#000;color:#fff;font-size:16px;padding:12px
+13px 15px 18px;border-bottom:1px solid #eaeaea;font-weight:bold}.member-text{font-size:11px;text-align:center;padding:26px
+0 31px 0;line-height:15px}.member-benifit{padding:0px
+0 0 28px;float:left;text-align:left;width:388px}.member-benifit .h2-title-head{font-size:18px;font-weight:normal;color:#3e3e3e;padding:14px
+0 11px 0;border-bottom:1px solid #959595;margin-bottom:5px}.member-benifit
+p{padding:7px
+0 7px 0;height:60px;display:block}.place-img{float:left;width:94px;height:56px;overflow:hidden}.place-dis{line-height:14px;float:right;width:278px;color:#2b2b2b}.place-dis
+b.wh{color:#000;padding:2px
+0px 3px 0px;float:left;width:100%}.place-dis
+b.dis{float:left;font-weight:normal}.align-center{text-align:center}.h2-head{font-size:20px;padding:21px
+0px 23px 0px;text-align:center}.h2-join{font-size:48px;padding:34px
+0px 39px 0px;text-align:center}.h2-join
+a{color:#000}.weblist
+p{float:left;width:311px;height:292px;overflow:hidden;margin:0px
+11px 15px 0px}.w-img{float:left;width:311px;height:225px;overflow:hidden}.w-desc{float:left;width:100%;background-color:#363636;height:68px;overflow:hidden}.w-desc
+b{float:left;font-weight:normal;color:#fff;width:96%}.w-title{padding:8px
+0px 4px 13px}.w-title
+a{font-weight:normal;font-size:19px;color:#fff}.w-text{float:left;padding:0px
+0px 2px 13px;font-size:11px;line-height:13px}.w-overlay{float:left;display:none}.w-bg{width:310px;height:44px;font-size:0px;position:absolute;margin:90px
+0px 0px 0px}.w-bg-text{width:310px;text-align:center;margin:101px
+0px 0px 0px;color:#fff;position:absolute;font-size:23px}.w-bg-text a, .hd-bg-text a, .mlist-bg-text
+a{color:#fff}.css-opacity{background-color:#000;display:block;filter:alpha(opacity=60);-moz-opacity:0.6;-khtml-opacity:0.6;opacity:0.6}.left-colum{width:639px}.right-colum{width:299px;padding:61px
+1px 0px 0px;text-align:left}.right-colum
+a{color:#000 !important}.rt-text{color:#555;line-height:17px;padding:10px
+0px 1px 0px}.h3-title{font-size:12px;font-weight:normal;color:#525252;font-style:smooth}.h3-head{font-size:18px;font-weight:bold;color:#fff;padding:15px
+0px 7px 14px}.h2-title-right{color:#898989;padding-left:180px}.h2-padtop{padding-top:14px}.h2-padTB{padding:15px
+0px 26px 0px}.h3-padd{padding:9px
+0px 18px 2px}.h2-join-pad{padding:23px
+0px 16px 0px}.h2-headpad{padding-top:27px}.h2-padding{padding:17px
+0px 35px 0px}.right-colum .h2-title-head{font-size:23px}.right-colum .h2-head{font-size:38px}.right-colum .h2-title{font-style:normal;padding:0px}.border-solid{border-bottom:1px solid #EBEBEB}.h2-title-bar,.h2-cs-title{font-size:30px}.h2-cs-title
+a{color:#000}.bg-hd{width:226px;height:44px;font-size:0px;position:absolute;margin:121px
+0px 0px 0px}.hd-bg-text{width:226px;margin:132px
+0px 0px 0px;color:#fff;position:absolute;font-size:23px}.hd-arrow{background:url("http://images23.bangbros.com/bangbrosnetwork/tour1/overlay_arrow.png") no-repeat;width:17px;height:19px;float:left;margin:2px
+5px 0px 29px}.hd-btn{background:url("http://images24.bangbros.com/bangbrosnetwork/tour1/hd_icon.jpg") no-repeat;width:17px;height:12px;float:right;margin:2px
+0px 0px 0px}.hd-title,.hd-text,.hd-subtitle,.md-title,.md-subtitle{float:left;width:100%}.hd-title{font-size:14px;font-weight:bold;padding:7px
+0px 0px 0px}.hd-text{font-size:11px;font-weight:normal;color:#6b6868;padding:4px
+0px 5px 0px;line-height:13px}.hd-subtitle{font-size:11px;font-weight:normal;color:#000;width:100%;padding:0px
+0px 3px 0px}.hd-title a, .hd-subtitle
+a{color:#000;padding-right:8px}.hd-title a:hover, .hd-subtitle a:hover{color:#0b5cad}.blackbar{background:#2d2d2d;height:51px;margin-bottom:10px}.modellist{padding:0px
+0px 0px 0px}.modellist
+p{float:left;width:226px;height:306px;overflow:hidden;margin:0px
+17px 12px 0px}.v-img{float:left;width:226px;height:265px;overflow:hidden}.mlist-bg{width:226px;height:44px;font-size:0px;position:absolute;margin:221px
+0px 0px 0px}.mlist-bg-text{width:226px;text-align:center;margin:233px
+0px 0px 0px;color:#fff;position:absolute;font-size:18px}.md-title{font-size:14px;font-weight:bold;padding:8px
+0px 5px 0px;color:#4e4e4e}.md-title
+a{color:#4e4e4e}.md-subtitle{font-size:11px;font-weight:normal;color:#808080;padding:0px
+0px 3px 0px}.md-subtitle
+a{color:#808080}.pro-lftcolum{width:301px;padding:12px
+0px 0px 0px}.tags-text{line-height:15px;color:#555;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:5px
+0px 10px 0px;margin-top:16px}.profile-text{line-height:16px;color:#555;padding:5px
+0px}.tags-text strong, .profile-text
+strong{font-size:13px;line-height:25px}.ad-list{width:634px;padding:12px
+0px 0px 0px;float:right}.ad-list
+p{margin-bottom:18px}.adl-hd{width:310px;height:44px;font-size:0px;position:absolute;margin:181px
+0px 0px 0px}.adl-bg-text{width:310px;margin:192px
+0px 0px 0px;color:#fff;position:absolute;font-size:23px}.adl-img{float:left;width:310px;height:225px;overflow:hidden}.btnclass{border-top:1px solid #CECECE;border-left:1px solid #CECECE;border-right:1px solid #CECECE;border-bottom:1px solid #B9B9B9;background-color:#f6f6f6;background-image:linear-gradient(top, #fff, #E5E5E5);background-image:-moz-linear-gradient(top, #fff, #E5E5E5);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#E5E5E5));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ffffff, endColorStr=#E5E5E5);cursor:pointer;white-space:nowrap;overflow:visible;outline:0
+none;font-size:11px;font-weight:bold;color:#5E5E5E}.btnclass
+a{color:#000}.btnclass::-moz-focus-inner{border:none}.btnclass:hover,.btnclass:focus{border-top:1px solid #999;border-left:1px solid #999;border-right:1px solid #999;border-bottom:1px solid #999;background-color:#f0f1f3;background-image:linear-gradient(top, #fff, #ebebeb);background-image:-moz-linear-gradient(top, #fff, #ebebeb);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ffffff, endColorStr=#ebebeb);box-shadow:0 0 2px rgba(0,0,0,0.4);-moz-box-shadow:0 0 2px rgba(0,0,0,0.4);-webkit-box-shadow:0 0 2px rgba(0,0,0,0.4)}.btnclass:active{background-color:#ddd;background-image:linear-gradient(top, #ccc, #fff);background-image:-moz-linear-gradient(top, #ccc, #fff);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ccc),to(#fff));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#cccccc,endColorStr=#ffffff)}.button-bpad{float:right;padding:12px
+0px 0px 0px}.btn-viewpad{float:right;padding:10px
+9px 0px 0px}.btn-viewpad
+a{text-decoration:none}.btn-padmar{padding:12px
+14px 10px 14px;margin:0px}.btn-padding{padding:10px
+13px 9px 13px;margin:0px}.result-num{float:left;color:#646770;font-weight:normal;padding:9px
+5px 2px 0px;font-size:13px}.btn-prev{float:left;moz-border-radius:3px 0px 0px 3px;-webkit-border-radius:3px 0px 0px 3px;border-radius:3px 0px 0px 3px}.btn-prev-opt{float:left;moz-border-radius:5px 0px 0px 5px;-webkit-border-radius:5px 0px 0px 5px;border-radius:5px 0px 0px 5px}.btn-next-opt{float:left;moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px}.btn-view{float:left;moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.btn-next{float:left;moz-border-radius:0px 3px 3px 0px;-webkit-border-radius:0px 3px 3px 0px;border-radius:0px 3px 3px 0px}.button-bpad
+a{text-decoration:none}.prev-icon{width:4px;height:8px;float:left;background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -37px -25px transparent}.next-icon{width:4px;height:8px;float:left;background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -37px -12px transparent}.h2-head-small{font-size:18px;padding:12px
+0px 13px 0px;text-align:center}.h2-btm-border{border-bottom:1px solid #E1E1E1}.drop-menu{color:#000;float:left;padding:12px
+0px 11px 2px}.dropDown-box{float:left;margin:0px
+8px 0px 0px}.buttonclass{text-align:center;display:inline-block;padding:7px
+18px 8px 10px;border:1px
+solid #ccc}.ddoption{position:relative}.buttonclass2{float:left;margin:0px
+0px 0px 0px;color:#555;font-size:11px;font-weight:bold;moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;border-bottom:1px solid #ABABAB;border-left:1px solid #CCC;border-right:1px solid #CDCDCD;border-top:1px solid #F0F0F0;color:#474747}.latest-ddl{padding:9px
+17px 10px 19px}.most-ddl{padding:9px
+10px 10px 10px}.today-ddl{padding:9px
+10px 10px 10px}.submenu-dropdown{position:absolute;background:#fff;margin:-1px 0px 0px 0px;display:none;border:1px
+solid #ccc;moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.submenu-dropdown-links{padding:5px
+0px 5px 0px;display:block}.submenu-dropdown
+a{display:block;padding:5px
+10px;font-weight:normal;margin:2px
+0;color:#000;text-decoration:none}.submenu-dropdown a:hover{display:block;font-weight:normal;margin:2px
+0;background-color:#000;color:#fff}.submenu-dropbox{float:left;width:100%}.most-text{float:left;padding:0px
+6px 0px 0px}.drop-icon{background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -15px -11px transparent;float:left;height:8px;margin:2px
+0 0;width:9px}.v-pagination{text-align:center;padding:30px
+0 15px 0;font-size:11px}.v-pagination a, .v-pagination
+span{border:1px
+solid #cdcdcd;padding:8px
+10px 8px 10px;border-radius:3px;margin-right:3px;font-weight:bold}.v-pagination
+span{background-image:-moz-linear-gradient(center top , #e5e5e5 0pt, #ddd 100%);background:-webkit-gradient(linear, left top, left bottom, from(#e5e5e5), to(#dddddd));background:-o-linear-gradient(linear, left top, left bottom, from(#e5e5e5), to(#dddddd));background:-ms-linear-gradient(linear, left top, left bottom, from(#e5e5e5), to(#dddddd));border-color:#999 #CCCCCC #CCC;box-shadow:1px 2px 3px #c7c5c5 inset;-moz-box-shadow:1px 2px 3px #c7c5c5 inset;-webkit-box-shadow:1px 2px 3px #c7c5c5 inset}.v-pagination
+a{border-top:1px solid #CECECE;border-left:1px solid #CECECE;border-right:1px solid #CECECE;border-bottom:1px solid #B9B9B9;background-color:#f6f6f6;background-image:linear-gradient(top, #fff, #E5E5E5);background-image:-moz-linear-gradient(top, #fff, #E5E5E5);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#E5E5E5));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ffffff, endColorStr=#E5E5E5);cursor:pointer;white-space:nowrap;overflow:visible;outline:0
+none;font-size:11px;font-weight:bold;color:#5E5E5E;text-decoration:none}.v-pagination a:hover, .v-pagination a:focus{border-top:1px solid #999;border-left:1px solid #999;border-right:1px solid #999;border-bottom:1px solid #999;background-color:#f0f1f3;background-image:linear-gradient(top, #fff, #ebebeb);background-image:-moz-linear-gradient(top, #fff, #ebebeb);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#ebebeb));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ffffff, endColorStr=#ebebeb);box-shadow:0 0 2px rgba(0,0,0,0.4);-moz-box-shadow:0 0 2px rgba(0,0,0,0.4);-webkit-box-shadow:0 0 2px rgba(0,0,0,0.4)}.v-pagination a:active{background-color:#ddd;background-image:linear-gradient(top, #ccc, #fff);background-image:-moz-linear-gradient(top, #ccc, #fff);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#ccc),to(#fff));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#cccccc,endColorStr=#ffffff)}.v-pages{font-weight:bold;color:#B1B1B1;padding:0px
+9px 0px 0px;font-size:14px}.cst-pagi-girls{padding:24px
+0px 17px 0px}.cst-mov-pag{padding:29px
+0px 15px 0px}.btn-down-arrow{float:left;padding:12px
+12px 10px 12px;margin:0px
+0px 0px 0px;moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.down-icon{width:8px;height:8px;float:left;background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -44px -264px transparent}.alpha-list{display:block;background-color:#464646;text-align:right;padding:10px
+14px 12px 0px;border-top:1px solid #E1E1E1;font-size:13px;margin:0px
+1px 0px 0px}.alpha-list
+a{color:#fff;padding:0px
+0px 0px 0px}.cst-girl-padd{padding:10px
+0px 0px 0px}.up-icon{width:8px;height:8px;float:left;background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -17px -128px transparent}.btn-up-arrow{padding:10px
+11px 12px 12px}.align-left{text-align:left}.button-prev{float:left;padding:12px
+14px 10px 14px;margin:0px
+0px 0px 0px;moz-border-radius:5px 0px 0px 5px;-webkit-border-radius:5px 0px 0px 5px;border-radius:5px 0px 0px 5px}.button-next{float:left;padding:12px
+14px 10px 14px;margin:0px
+0px 0px 0px;moz-border-radius:0px 5px 5px 0px;-webkit-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px}.result-padd{padding:9px
+10px 2px 0px}.cst-pagi-updates{padding:28px
+0px 48px 0px}.cst-update-pag{padding:29px
+0px 15px 0px}.more-bpadd{padding:14px
+0px 0px 0px}.linkblack
+a{}.button-home-padd{padding:17px
+0px 0px 0px}.btn-padd-prev{padding:9px
+13px 10px 16px;margin:0px}.btn-padd-next{padding:9px
+10px 10px 13px;margin:0px}.web-update
+p{height:308px;margin:0px
+11px 0px 0px}.h3-hm-padd{padding:5px
+0px 16px 0px}.h3-opt-padd{padding:5px
+0px 16px 0px}.h2-opt-padd{padding:11px
+0px 0px 0px}.result-opt{padding:9px
+10px 2px 0px}.trailer-info{float:right;width:300px;padding:59px
+0px 0px 0px}.h2-trailer{font-size:26px;padding:0px
+0px 7px 0px}.t-link{width:100%}.t-link
+a{text-decoration:underline;font-size:13px}.t-text{color:#000201;font-size:13px;line-height:16px;padding:7px
+0px 10px 0px}.t-watch-link
+a{font-size:40px;text-decoration:underline;font-weight:bold}.t-access-link{padding:12px
+0px 0px 0px}.t-access-link
+a{font-size:30px;text-decoration:underline;font-weight:bold}.site-padd{padding:0px
+0px 16px 0px}.drop-bg{background-color:#ECECEC}.drop-bg .drop-menu{padding:8px
+0px 9px 6px}.drop-bg .button-bpad{padding:9px
+6px 0px 0px}.weblist-top-padd{padding:11px
+0px 0px 0px}.h2-ad-pad{padding:22px
+0px 28px 0px}.h2-title-right{color:#898989;padding:8px
+0px 0px 175px}.h3-title-pad{padding:5px
+0px 13px 2px}.ad-title,.ad-subtitle,.ad-dis{float:left}.pro-lftcolum{width:301px;padding:12px
+0px 0px 0px}.tags-text{line-height:15px;color:#555;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:5px
+0px 10px 0px;margin-top:16px}.profile-text{line-height:16px;color:#555;padding:5px
+0px}.tags-text strong, .profile-text
+strong{line-height:20px}.adl-text{line-height:15px;color:#555;padding:8px
+0px 0px 0px}.ad-list{width:634px;padding:12px
+0px 0px 0px;float:right}.ad-list
+p{margin:0px
+0px 18px 0px;float:left}.adl-hd{width:310px;height:44px;font-size:0px;position:absolute;margin:90px
+0px 0px 0px}.adl-bg-text{width:310px;margin:100px
+0px 0px 0px;color:#fff;position:absolute;font-size:23px}.adl-img{float:left;width:310px;height:225px;overflow:hidden}.ad-right{float:left;width:308px;margin:0px
+0px 0px 16px}.ad-title{font-size:14px;font-weight:bold;width:100%}.ad-title
+a{color:#000}.ad-subtitle{font-size:11px;padding:5px
+0px 6px 0px;font-weight:normal;width:100%}.ad-dis{color:#555;line-height:14px;font-weight:normal;padding:0px
+0px 0px 0px;width:100%}.h4-title{color:#fff;background:#fe0000;font-size:16px;padding:8px
+0px;border-bottom:1px solid #363636}.h4-title
+a{color:#fff}.blright-colum{width:225px;height:428px;margin:65px
+0px 0px 0px;text-align:left;border:1px
+solid #000}.blright-colum
+a{text-decoration:none}.rtcol-text{color:#555;line-height:15px;padding:15px
+0px 15px 0px}.rtcol-margin{margin:0px
+12px 0px 12px}.rtcol-text
+strong.wh{color:#000}.member-dis{font-size:10px;color:#5a5959;float:left;padding:6px
+0px 18px 0px;clear:both;width:100%}.member-dis
+a{color:#5a5959}.member-btn-dis
+.small{font-size:10px;font-weight:normal}.hot-bl-lft{width:370px;float:left;padding-left:17px;line-height:16px}.hot-bl-lft
+span.bl{font-size:12px;font-weight:bold;float:left}.hot-bl-lft span.bl-dis{float:left;padding-top:3px}.hot-bl-rt{width:363px;float:right;padding-right:18px;line-height:20px}.rt-lft{width:60px;font-weight:bold;text-align:right;clear:both;float:left;padding-right:10px}.rt-right{float:left;text-align:left;width:290px}.hot-img-block{color:#333;padding:7px
+0px 5px 0px;line-height:20px}.hot-img-block
+p{float:left;margin:6px
+0px 0px 0px}.hot-img{width:150px;height:110px;float:left;overflow:hidden;border:1px
+solid #000100;margin:0px
+6px 0px 0px}.margin-rt{margin-right:20px}.hd-video{padding:0px
+93px 0px 93px}.hd-vid-angle{font-size:13px;padding:14px
+0px 0px 188px}.hd-vid-angle ul
+li{padding:4px
+3px;float:left}.hd-vid-angle ul li.bdr-rt{border-right:1px solid #999;margin:10px
+10px 0px 0px;height:1px}.btn-dis{font-size:11px}.member-btn-dis{font-weight:bold;font-size:12px;color:#353535}.h2-title-head{font-size:24px}.h2-ad-padtop{padding-top:8px}.h2-title-padd{padding-bottom:25px;padding-top:6px}.pro-img{width:301px;height:354px;overflow:hidden}.girl-profile-list{width:100%;float:left;height:243px;overflow:hidden}.girl-pro-img{float:left;width:310px;height:225px;overflow:hidden}.girl-pro-info{float:right;width:309px;height:225px;overflow:hidden}.girl-pro-info .hd-title{padding:0px
+0px 5px 0px}.girl-pro-info .hd-subtitle{padding:0px
+0px 6px 0px}.girl-pro-img .bg-hd{margin:90px
+0px 0px 0px}.girl-pro-img .hd-bg-text{margin:101px
+0px 0px 0px}.btn-dis{font-size:11px}.member-btn-dis{font-weight:bold;font-size:12px;color:#353535}.member-btn-padd{padding:9px
+14px 9px 14px;margin:0px}.join-larger{font-size:32px;padding:12px
+0px 5px 0px}.join-large-mid{font-size:30px;padding:26px
+0px 29px 0px}.join-large-small{font-size:24px;padding:10px
+0px 26px 0px}.h2-trailer-padd{padding:14px
+0px 0px 0px}.h3-trailer-padd{padding:5px
+0px 16px 0px}.trailer-small-img{width:143px;height:180px;overflow:hidden}.t-h2-padd{padding:19px
+0px 0px 0px}.t-h2-btm-padd{padding:23px
+0px 29px 0px}.play-button{height:96px;margin:169px
+0px 0px 0px;position:absolute;text-align:center;width:769px}.play-text{color:#E5E2DB;font-size:27px;font-weight:bold;margin:319px
+0px 0px 0px;position:absolute;text-align:center;text-shadow:1px 1px 1px #000;width:769px}.iframebox{width:505px;height:577px}.memberiframe{margin-left:auto;margin-right:auto}.h2-bar{background-color:#ECECEC;border-top:1px solid #D7D7D7}.h2-bar .b-bold{float:left;padding:8px
+0px 7px 9px}.h2-bar .b-normal{float:left;padding:8px
+0px 7px 4px}.b-bold{font-size:15px}.b-normal{font-weight:normal;font-size:15px}.t-top{padding:17px
+0px 0px 0px}.s-normal{font-weight:normal;font-size:11px}.s-bold{font-weight:bold;font-size:11px}.h2-bar .s-normal{float:right;padding:10px
+4px 3px 0px}.h2-bar .s-bold{float:right;padding:10px
+0px 3px 0px}.b-pipe{float:right;width:1px;height:10px;background-color:#ACACAC;font-size:0px;margin:12px
+4px 0px 3px}.view-padd{padding-right:9px !important}.h2-title-link{font-size:35px;text-align:center;text-transform:uppercase;padding:25px
+0px 17px 0px}.h2-title-link
+a{}.para-class{color:#464646;font-size:13px;line-height:16px;padding:0px
+0px 24px 0px}.black-light{}.black-light
+a{}.b-pipe-wide{width:2px;background-color:#676767;margin:11px
+7px 0px 6px}.video-list-thumb{width:100%;padding:17px
+0px 16px 0px}.video-list-thumb
+p{float:left;width:227px;height:229px;overflow:hidden;margin:0px
+17px 0px 0px}.vl-thumb-img{float:left;width:225px;height:164px;overflow:hidden;border:1px
+solid #242225}.vl-title{float:left;width:100%;font-size:14px;padding:8px
+0px 4px 0px}.title-color{color:#151515}.title-color
+a{}.vl-title
+b{color:#0000F8}.title-color-link{color:#0000F8}.vl-desc{float:left;width:100%;padding:0px
+0px 2px 0px}.grey-color{color:#636363;font-weight:normal;font-size:11px}.grey-color
+a{}.grey-color2{color:#636363;font-weight:normal;font-size:12px}.grey-color2
+a{color:#636363}.h3-join-cls{background-color:#E7F6FB;text-align:center}.h3-join-cls
+a{display:block;color:#000;font-size:30px;padding:26px
+0px 12px 0px}.h3-join-cls
+b{display:block;color:#707578;font-size:16px;padding:0px
+0px 32px 0px}.h3-join-padd{padding:0px
+0px 26px 0px}.vplayer-block{float:left;width:720px}.join-block{float:right;width:220px;border:1px
+solid #000;height:429px}.vplayer-main{padding:16px
+0px 0px 0px}.vplayer-overlay{position:absolute;width:720px;height:407px;overflow:hidden;background-color:#363636}.h3-vplayer{background-color:#000;text-align:center;color:#fff;font-size:23px;font-weight:bold;padding:14px
+0px 12px 0px}.vplayer-img{float:left}.mem-details{float:right;width:510px;padding:21px
+0px 0px 0px}.h4-vplayer{color:#fff;font-size:23px;font-weight:bold;padding:0px
+0px 20px 0px}.mem-list{width:100%}.mem-list
+span{float:left;width:99%;padding:0px
+0px 12px 1px}.dash-style{float:left;width:5px;height:1px;background-color:#fff;margin:9px
+0px 0px 0px}.mem-text{float:left;color:#fff;font-size:19px;font-weight:normal;line-height:30px}.h4-vplayer-link{font-size:18px;padding:20px
+0px 0px 0px}.h4-vplayer-link
+a{color:#FF0;text-transform:uppercase;font-size:30px;text-decoration:underline}.h3-join-title{color:#fff;font-size:21px;background-color:#000;text-align:center;padding:12px
+0px 16px 0px;font-weight:normal}.join-mem-area{padding:9px
+0px 0px 0px}.join-mem-text{text-align:center;color:#454545;line-height:14px;padding:0px
+0px 15px 2px;font-size:12px}.join-link-button{float:left;background-color:#9E0C0F;color:#fff;text-decoration:none !important;margin:0px
+0px 15px 10px;width:203px;text-align:center;padding:11px
+0px 14px 0px;moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-moz-box-shadow:1px 2px 3px 0px #5A5C5B;-webkit-box-shadow:1px 2px 3px 0px #5A5C5B;box-shadow:1px 2px 3px 0px #5A5C5B}.b-large{font-size:18px;font-weight:normal;display:block}.b-small{font-size:12px;display:block;text-align:center;padding:5px
+0px 0px 0px}.b-month{font-size:17px;font-weight:bold;display:block;padding:7px
+0px 0px 0px}.jb-padd-one{padding-bottom:15px}.jb-padd-two{padding:16px
+0px 16px 0px}.hd-img{position:absolute;width:34px;height:23px;background:url('http://images26.bangbros.com/bangbrosnetwork/tour1/hd.png');background-repeat:no-repeat;margin:136px
+0px 0px 188px}.site-block{width:100%;padding:0px
+0px 16px 0px}.site-img-list{width:561px;height:357px;border:1px
+solid #060606;float:left;overflow:hidden}.site-bg{width:561px;height:53px;position:absolute;margin:270px
+0px 0px 0px}.site-bold{font-size:19px;font-weight:normal;position:absolute;color:#FDFFFC;margin:282px
+0px 0px 8px}.site-small{font-size:11px;font-weight:normal;position:absolute;color:#FDFFFC;margin:302px
+0px 0px 9px}.site-details{float:right;width:383px}.h2-specific{font-size:31px;padding:0px
+0px 10px 0px;margin:-1px 0px 0px 0px;display:block}.h3-specific-num-scenes{font-size:18px;color:#606060;padding:0px
+0px 10px 0px;margin:4px
+0px 4px 0px;display:block}.site-details .para-class{padding:0px
+0px 0px 2px}.v-pagination-link{width:100%;float:left;padding:24px
+0px 49px 0px;text-align:center;font-size:12px}.v-pagination-link
+a{border:1px
+solid #D7D7D7;padding:3px
+8px 3px 8px;font-weight:bold;margin:0px
+3px 0px 0px;color:#0F0F0F}.v-pagination-link
+span{border:1px
+solid #D7D7D7;padding:3px
+8px 3px 8px;font-weight:bold;margin:0px
+3px 0px 0px;color:#7d7d7d}.h2-title-heading{font-size:30px;font-weight:bold}.h3-title-head{font-size:14px;padding:8px
+0px 7px 0px}.vid-list{padding:17px
+0px 14px 0px}.vid-list
+p{width:472px;height:378px;margin:0px
+16px 0px 0px;float:left}.vid-img-big{height:309px;width:470px;border:1px
+solid #898989;float:left;overflow:hidden}.movie-title{float:left;font-size:18px;padding:6px
+0px 4px 0px}.movie-sub-title{float:right;padding:9px
+0px 0px 0px;font-size:11px;font-weight:bold}.movie-dis{float:left;line-height:13px;clear:both;width:100%}.h2-cs-padd{padding:9px
+0px 27px 0px}.h2-updates{width:100%}.up-large{font-size:18px}.h2-updates .up-large{float:left;padding:0px
+0px 13px 0px}.h2-updates .s-bold{float:right;padding:3px
+0px 3px 0px}.h-top{padding:14px
+0px 0px 0px}.home-top-list{padding:0px
+0px 0px 0px}.home-top-list
+p{width:312px;height:291px;margin:0px
+13px 0px 0px}.home-top-list .vl-thumb-img{width:310px;height:225px}.home-top-list .hd-bg-text{width:311px;margin:193px
+0px 0px 0px}.home-top-list .bg-hd{width:311px;margin:182px
+0px 0px 0px}.hd-img-large{position:absolute;width:43px;height:30px;background:url('http://images27.bangbros.com/bangbrosnetwork/tour1/hd_icon.png');background-repeat:no-repeat;margin:188px
+0px 0px 261px}.home-top-list .vl-title{font-size:16px;padding:6px
+0px 4px 0px}.home-top-list .hd-arrow{margin-left:60px}.cst-h2-latest{padding:1px
+0px 29px 0px}.web-list{padding:14px
+0px 16px 0px}.web-list
+p{width:312px;height:272px;margin:0px
+12px 4px 0px}.web-list .vid-img-big{width:310px;height:204px}.main-bg{background:url("http://images29.bangbros.com/bangbrosnetwork/tour1/bodybg.jpg") top center repeat-y}.join-mem-area a:hover{color:#FFFF01;-moz-box-shadow:1px 4px 7px 0px #454545;-webkit-box-shadow:1px 4px 7px 0px #454545;box-shadow:1px 4px 7px 0px #454545;background-color:#89080B}.join-img{width:440px;height:623px;float:right;overflow:hidden}.v-position{position:absolute;margin:9px
+0px 0px 391px}.h2-join-btm{background-color:#363636;padding:12px
+0px 12px 0px;color:#fff;text-align:center;font-size:21px}.mem-join-form{padding:0px
+0px 16px 0px}.footer-join-class{padding:19px
+0px 10px 0px;text-align:center}.footer-join-class
+a{color:#363636;padding:0px
+5px 0px 5px}.fj-link{padding:12px
+0px 12px 0px;text-align:center;font-weight:bold}.fj-text{color:#676767;font-size:11px;line-height:13px;padding:0px
+0px 3px 0px}.h3-bottom-cls{text-align:center}.h3-bottom-cls
+a{display:block;font-size:48px;padding:0px
+0px 17px 0px}.h3-bottom-cls
+b{display:block;color:#353535;font-size:20px;padding:0px
+0px 32px 0px}.v-pagination-block{padding:0px
+0px 30px 0px}.v-pagination-more{width:100%;float:left;padding:14px
+0px 14px 0px;text-align:center;font-size:12px;background-color:#ECECEC}.v-pagination-more
+a{padding:3px
+5px 3px 5px;font-weight:bold;font-size:24px;margin:0px
+0px 0px 0px}.v-pagination-more
+span{padding:3px
+4px 3px 4px;font-size:24px;margin:0px
+0px 0px 0px;color:#959595}.join-text-cls{color:#676767;font-size:11px;line-height:13px;padding:6px
+0px 31px 19px}.join-text-cls
+a{color:#676767;font-weight:bold}.join-img-cls{width:441px;height:688px}.iframebox-cls{height:642px !important}.h2-latest{font-size:24px;padding:15px
+0px 0px 0px}.my-videos-latest{height:371px !important}.h3-title-update{font-size:13px !important;font-weight:normal !important;padding:14px
+13px 16px 32px !important}.padd-top-update{padding-top:21px !important}.h2-title-trailer{font-size:32px;padding:17px
+0px 20px 0px;color:#949494}.trailer-block{width:864px;margin-left:auto;margin-right:auto}.h2-trailer-block{float:left;width:717px;padding:0px
+0px 5px 0px;overflow:hidden}.trailer-border{border-bottom:1px solid #EFEFEF}.h2-trailer-style{float:left;width:100%;font-size:20px;padding:0px
+0px 5px 0px;margin-left:-1px}.h2-trailer-list{float:left;width:100%}.t-img{float:left}.t-pipe{background-color:#E9E9E9;float:left;width:1px;height:13px;margin:2px
+5px 0px 5px}.t-font{float:left;font-size:13px;font-weight:normal;color:#606060;padding:0px
+0px 0px 0px}.t-font
+a{}.trailer-top{padding-top:13px}.download-btn{background-color:#f6f6f6;background-image:linear-gradient(top, #F41A00, #A20C0E);background-image:-moz-linear-gradient(top, #F41A00, #A20C0E);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#F41A00), to(#A20C0E));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#F41A00, endColorStr=#A20C0E);cursor:pointer;white-space:nowrap;overflow:visible;outline:0
+none;font-size:12px;font-weight:bold;color:#fff;float:right;padding:7px
+11px 10px 11px;text-decoration:none !important;moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.download-btn
+a{color:#000}.download-btn::-moz-focus-inner{border:none}.download-btn:hover,.btnclass:focus{background-color:#555;background-image:linear-gradient(top, #555555, #555555);background-image:-moz-linear-gradient(top, #555555, #555555);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#555555),to(#555555));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#555555,endColorStr=#555555)}.download-btn:active{background-color:#555;background-image:linear-gradient(top, #555555, #555555);background-image:-moz-linear-gradient(top, #555555, #555555);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#555555),to(#555555));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#555555,endColorStr=#555555)}.d-button{padding:9px
+0px 0px 0px}.trailer-section{width:864px;height:486px;overflow:hidden}.membershipBox{background-color:#f41800;cursor:pointer;display:inline-block;text-align:center;margin:15px
+0 20px 0;border:1px
+solid #f41800;font-size:33px !important;line-height:28px;font-weight:bold;color:#fff;padding:27px
+12px 18px 12px !important;width:518px;text-decoration:none;border-radius:6px;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#f41800,EndColorStr=#a30d0e);background-image:-moz-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-ms-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-o-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f41800),color-stop(100%,#a30d0e));background-image:-webkit-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:linear-gradient(to bottom,#f41800 0,#a30d0e 100%);-moz-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-ms-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #a30d0e;box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 4px #a30d0e}.membershipBox:hover{background-color:#f45140;cursor:pointer;display:inline-block;text-align:center;margin:15px
+0 20px 0;border:1px
+solid #ee1c27;font-size:33px !important;line-height:28px;font-weight:bold;color:#fff;padding:27px
+12px 18px 12px !important;width:518px;text-decoration:none;border-radius:6px;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#f45140,EndColorStr=#bf1000);background-image:-moz-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-ms-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-o-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f45140),color-stop(100%,#bf1000));background-image:-webkit-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:linear-gradient(to bottom,#f45140 0,#bf1000 100%);-moz-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-ms-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #bf1000;box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 4px #bf1000}.membershipBox
+a{color:#fff;text-decoration:none}.membershipBox a:hover{color:#fff;text-decoration:none}.membershipBox
+span{font-size:16px;font-weight:normal}.yellowText{color:#fff700;font-weight:normal}.vplayer-block_new{width:864px;height:486px;margin-top:2px}.vplayer-block_new:hover{cursor:pointer}.vplayer-overlay_new{position:absolute;width:864px;height:464px;overflow:hidden;background-color:#363636}.h3-vplayer_new{background-color:#000;text-align:center;color:#fff;font-size:23px;font-weight:bold;padding:14px
+0px 12px 0px}.vplayer-img_new{float:left}.mem-details_new{float:right;width:578px;padding:23px
+0px 0px 0px}.h4-vplayer_new{color:#fff;font-size:23px;font-weight:bold;padding:0px
+0px 20px 0px}.mem-list_new{width:100%}.mem-list_new
+span{float:left;width:99%;padding:0px
+0px 12px 1px}.mem-text_new{float:left;color:#fff;font-size:21px;font-weight:normal;line-height:34px}.h4-vplayer-link_new{font-size:18px;padding:20px
+0px 0px 0px}.layout-top-msg{padding:12px
+0 12px 0;background-color:#043b7b;color:#fff;font-size:12px;font-weight:normal;text-align:center}.h3-bottom-cls a:hover{color:#0000f8}.h2-title-heading a:hover{color:#0000f8}.h2-title-link a:hover{color:#0000f8}.h3-join-cls a:hover{color:#0000f8}.v-pagination-more a:hover{color:#0000f8}.grey-color a:hover{color:#0000f8}.black-light a:hover{color:#0000f8}a.black-light:hover{color:#0000f8}.h2-trailer-list a:hover{color:#0000f8}.title-color a:hover{color:#0000f8}.wtop-bg-hd{width:226px;height:24px;font-size:0px;position:absolute;margin:0}.wtop-overlay{float:left;display:none}.wtop-bg{width:310px;height:44px;font-size:0px;position:absolute;margin:90px
+0px 0px 0px}.wtop-bg-text a, .wtop-hd-bg-text a, .mlist-bg-text
+a{color:#fff}.wtop-hd-bg-text:hover{cursor:pointer;text-decoration:underline}.wtop-hd-bg-text{width:226px;height:30px;margin:4px
+0 0 -4px;color:#fff;position:absolute;font-size:14px;font-weight:normal}.wtop-hd-arrow{background:url("http://images210.bangbros.com/bangbrosnetwork/tour1/overlay_arrow_sm.png") no-repeat;width:9px;height:10px;float:left;margin:3px
+5px 0px 29px}.home-top-list .wtop-hd-bg-text{width:311px;margin:4px
+0 0 0;font-size:16px}.home-top-list .wtop-bg-hd{width:311px;margin:0}.home-top-list .wtop-hd-arrow{margin-left:60px}.wtop-bg-hd-site{width:311px;height:26px;font-size:0px;position:absolute;margin:0}.wtop-overlay-site{float:left;display:none}.wtop-bg-text-site, .wtop-hd-bg-text-site, .mlist-bg-text-site
+a{color:#fff}.wtop-hd-bg-text-site:hover{cursor:pointer;text-decoration:underline}.wtop-hd-bg-text-site{width:311px;height:30px;margin:4px
+0 0 -4px;color:#fff;position:absolute;font-size:16px;font-weight:normal}.wtop-hd-bg-text-site .wtop-hd-arrow{margin-left:90px}.color-black{color:#000 !important}.t-bold{float:left;font-weight:bold;font-size:13px;padding:0px
+8px 2px 0px}.t-padd{padding:2px
+0px 13px 0px}.trailer-thumbs{width:100%;padding:0px
+0px 4px 0px}.trailer-thumbs
+a{float:left;width:150px;height:110px;border:1px
+solid #000;margin:0px
+10px 10px 0px;overflow:hidden}.t-para{padding:0px
+0px 10px 0px}.h3-bottom-cust{padding:20px
+0px 0px 0px;border-top:1px solid #EAEAEA}.vid-list-padd{padding:17px
+0px 11px 0px}.h2-bar-videos .s-bold{font-size:12px}.h2-bar-videos .b-pipe-wide{width:1px !important;height:11px !important;background-color:#979797 !important;margin:11px
+5px 0px 4px !important}.vid-list-top-padd{padding:13px
+0px 0px 0px}.bang-top-padd{padding:0px
+0px 0px 0px;border-bottom:1px solid #EEE}.ml-img_list{width:100%;padding:13px
+0px 0px 0px}.ml-img_list
+p{float:left;width:183px;height:265px;overflow:hidden;margin:0px
+11px 0px 0px}.gl_heading{margin:11px
+0 27px 0}.gl_heading
+h2{font-size:25px;text-align:center}.gl_heading
+h2.bbn{font-size:23px}.hd-img-gL{position:absolute;width:34px;height:23px;background:url('http://images26.bangbros.com/bangbrosnetwork/tour1/hd.png');background-repeat:no-repeat;margin:187px
+0 0 144px}.ml-img{float:left;width:181px;height:213px;overflow:hidden;border:1px
+solid #242225}.ml-img-list{width:100%;padding:17px
+0px 16px 0px}.ml-img
+p{float:left;width:227px;height:229px;overflow:hidden;margin:0px
+17px 0px 0px}.ml-img-title{float:left;width:100%;font-size:14px;padding:6px
+0px 4px 0px}.ml-img-title
+a{color:#0200fc !important}.ml-img-title a:hover{color:#0200fc}.title-color{color:#151515}.title-color
+a{}.ml-links{float:left;width:100%;padding:0px}.ml-links
+span{margin:0
+1px 0 3px}.ml-img-hd{width:182px;height:44px;font-size:0px;position:absolute;margin:170px
+0px 0px 0px}.ml-img-bg-text{width:181px;margin:183px
+0px 0px 0px;color:#fff;position:absolute;font-size:21px}.ml-img-bg-text
+a{color:#fff;text-decoration:none}.ml-img-bg-text a:hover{color:#fff;text-decoration:underline}.ml-arrow{margin:2px
+5px 0px 9px}.ml-blackstrip{background-color:#464646;height:41px;line-height:41px;padding-left:9px;color:#fff;font-size:13px;font-weight:normal;font-weight:bold}.pdLeft{padding-left:5px}.ml-blackstrip
+a{color:#fff;text-decoration:none;margin:0
+2px 0 2px}.ml-blackstrip a:hover{color:#fff;text-decoration:underline;margin:0
+2px 0 2px}.ml-pg_martop{margin-top:190px}.search-box{float:left;height:32px;margin:5px
+0 0 0;overflow:hidden}.search-box1{float:left;height:29px;overflow:hidden;padding:0
+0 0 4px;width:306px;border-radius:3px 0 0 3px;border:1px
+solid #959595;background-color:#fff;border-right:none}.search-box button.search span.search-icon{background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/sprite.png") no-repeat scroll -129px -203px transparent;float:left;height:20px;width:15px}.search-box
+span{overflow:hidden;padding:0
+0 0 9px}.search-box
+button{background-image:linear-gradient(top, #fafafa, #e6e6e6);background-image:-moz-linear-gradient(top, #fafafa, #e6e6e6);background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#fafafa), to(#e6e6e6));filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#fafafa, endColorStr=#e6e6e6);border:1px
+solid #959595;border-radius:0 3px 3px 0;float:left;height:31px;width:36px}.search-box
+button{cursor:pointer}.ml-blackstrip
+input{border:0
+none;float:left;font-size:14px;height:28px;margin:0;width:298px;color:#06050b;font-weight:bold;line-height:28px}.profile_marTop{padding-top:15px}.pl_leftArea{float:left;width:239px;margin-right:15px}.pl_leftArea
+p{margin:11px
+0 0 0;padding:0px;height:65px}.profile_pix{width:237px;height:279px;border:1px
+solid #000;overflow:hidden;display:block}.model-des{font-size:12px;margin:9px
+0 10px 0;line-height:17px;display:block}.model-des
+strong{font-weight:normal;color:#0000f6}.more-pixHeading{font-size:13px;font-weight:bold;padding:7px
+0px 10px 8px !important}.pl-small-pix{border:1px
+solid #000;overflow:hidden;width:53px;height:62px;float:left;margin-left:5px}.pl-small-desc{float:left;margin-left:9px;margin-top:0px;width:157px}.pl-small-desc
+b{float:left;width:100%}.blue-link{color:#0000eb;text-decoration:none}.blue-link:hover{color:#0000eb;text-decoration:underline}.grey-color-pl{color:#8a8a8a;text-decoration:none}.grey-color-pl
+a{color:#8a8a8a;text-decoration:none}.grey-color-pl a:hover{color:#8a8a8a;text-decoration:underline}.pl_rightArea{float:right;width:707px}.pl_rightArea
+h1{font-size:29px;color:#191919;margin:0px;padding:0
+0 8px 0}.h1_sub{color:#949494;font-size:12px;width:100%;display:block;font-weight:bold;margin-bottom:15px}.borderBox{margin-top:13px;border-bottom:1px solid #eaeaea;padding-bottom:15px;display:inline-block}.model-video-pix{float:left;width:225px;height:164px;margin-right:16px;border:1px
+solid #000;overflow:hidden}.model-story{line-height:15px;float:left;width:460px}.blueText{font-size:19px;font-weight:bold;color:#0000eb}.line-space{line-height:37px;font-weight:normal;font-size:12px}.bdr-bottom{border-bottom:1px solid #EBEBEB;padding-bottom:13px;margin-bottom:29px}.ml-martop{margin-top:3px}.ml-padbottom{padding-bottom:45px !important}.pg-main{margin-top:12px}.centerTxt{text-align:center !important;font-weight:bold !important;margin:11px
+0 7px 0}.ft13{font-size:13px}.ftbold{font-weight:bold;font-size:22px !important}.f-normal{font-weight:normal !important}.pl-vid{padding:6px
+0px 5px 0px}.pl-view{padding:0px
+0px 0px 0px}.pg-sel{color:#959595 !important;text-decoration:none !important;cursor:default}.black-light-color{color:#464646;font-size:10px;font-weight:normal}.vid-md-list{margin:14px
+0 26px 0;border-bottom:1px solid #eaeaea;padding:0
+0 15px 0}.vid-md-list
+p{width:312px;height:316px;margin:0px
+13px 0px 0px;float:left}.vid-img-md{width:310px;height:225px;border:1px
+solid #000;float:left;overflow:hidden}.movie-title-md{float:left;font-size:17px;padding:6px
+0px 4px 0px}.movie-title-md
+a{color:#0000fc}.movie-title-md a:hover{color:#0000fc}.movie-dis-md{float:left;line-height:16px;clear:both;width:100%}.h2-cs-padd{padding:9px
+0px 27px 0px}.grey-color12{color:#636363;font-size:12px;font-weight:normal}.hd-img-md{position:absolute;width:43px;height:30px;background:url('http://images27.bangbros.com/bangbrosnetwork/tour1/hd_icon.png');background-repeat:no-repeat;margin:190px
+0px 0px 262px}.h2-title-heading_2{font-size:27px;font-weight:bold}.bar-ct{background-color:#ECECEC;font-size:12px;padding:8px
+0 7px;font-weight:bold}.bar-ct
+a{margin:0
+7px 0 7px}.bar-ct a:hover{margin:0
+7px 0 7px;color:#000}.bar-ct
+span{margin:0
+7px 0 7px}.cat-bdr-bottom{border-bottom:1px solid #EBEBEB;padding:9px
+0px 10px 0px;margin-bottom:2px}.darGrey
+a{font-weight:bold}.darGrey a:hover{font-weight:bold}.cat-headingb
+h2{margin-bottom:10px;color:#222;float:left;width:500px}.cat-heading
+span{float:right;font-size:12px;margin-right:4px;font-weight:bold;padding-top:5px}.cat-heading{width:100%;float:left;margin-bottom:8px}.catPag-mar{margin-top:17px}.searchMar{margin-bottom:5px}.search-list-thumb{width:100%;padding:17px
+0px 8px 0px}.search-list-thumb
+p{float:left;width:227px;height:234px;overflow:hidden;margin:0px
+17px 0px 0px}.h2-sr-bar{background-color:#ECECEC;border-top:1px solid #D7D7D7;height:30px;line-height:26px;padding-left:7px}.h2-sr-bar .b-bold{padding:8px
+0px 7px 9px}.h2-sr-bar .b-normal{padding:8px
+0px 7px 4px}.b-sr-pipe{width:1px;height:10px;background-color:#ACACAC;font-size:0px;margin:12px
+4px 0px 3px}.sr-divider{margin:0
+3px 0 3px}.sh_heading{margin:0px
+0 10px 0;display:inline-block;width:100%}.sh_heading
+h2{font-size:22px}.sh
+input{border:0
+none;float:left;font-size:14px;font-weight:bold;height:28px;margin:0;width:385px;color:#06050b;line-height:28px}.t-top-sh{padding:12px
+0px 0px 0px}.search-box2{float:left;height:29px;overflow:hidden;padding:0
+0 0 4px;width:306px;border-radius:3px 0 0 3px;border:1px
+solid #c1c1c1;background-color:#fff;border-right:none}.search-box2
+button{cursor:pointer}.search-box2
+button{background-image:-moz-linear-gradient(center top , #FAFAFA, #E6E6E6);border:1px
+solid #c1c1c1;border-radius:0 3px 3px 0;float:left;height:31px;width:36px}.trailer-bg{background-color:transparent !important}.vplayer-list{width:442px;height:361px;position:absolute;overflow:hidden;margin:33px
+0px 0px 403px;color:#FCFFFD}.vplayer-list-index{z-index:5000}.h3-vjoin{font-size:22px;padding:11px
+0px 10px 18px;font-weight:bold;line-height:26px}.css-opacity-dark{background-color:#000;display:block;filter:alpha(opacity=70);-moz-opacity:0.7;-khtml-opacity:0.7;opacity:0.7}.vplayer-btm{padding-bottom:5px !important}.vplayer-list
+p{color:#fff;font-size:18px;background:url('http://images28.bangbros.com/bangbrosnetwork/tour1/chkimg.png') 22px 1px no-repeat;padding:0px
+0px 12px 50px}.membtn{width:390px;background-color:#f41800;cursor:pointer;display:inline-block;text-align:center;margin:15px
+0 20px 13px;border:1px
+solid #f41800;font-size:26px !important;line-height:22px;font-weight:bold;color:#fff;padding:21px
+12px 12px 12px !important;text-decoration:none;border-radius:6px;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#f41800,EndColorStr=#a30d0e);background-image:-moz-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-ms-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-o-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f41800),color-stop(100%,#a30d0e));background-image:-webkit-linear-gradient(top,#f41800 0,#a30d0e 100%);background-image:linear-gradient(to bottom,#f41800 0,#a30d0e 100%);-moz-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-ms-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #a30d0e;box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 4px #a30d0e}.membtn:hover{text-decoration:none;filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#f45140,EndColorStr=#bf1000);background-image:-moz-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-ms-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-o-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#f45140),color-stop(100%,#bf1000));background-image:-webkit-linear-gradient(top,#f45140 0,#bf1000 100%);background-image:linear-gradient(to bottom,#f45140 0,#bf1000 100%);-moz-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-ms-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #fff;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #bf1000;box-shadow:0 1px 2px rgba(0,0,0,0.25),inset 0 0 4px #bf1000}.membtn
+span{font-size:12px;font-weight:normal}.trailer-block-main{width:952px;margin-left:auto;margin-right:auto}.player-block-main{width:720px;float:left}.player-block-right{float:right;width:218px;height:430px;overflow:hidden;background-color:#ECECEC}.h2-player{background-color:#000;color:#fff;font-size:16px;text-align:center;padding:12px
+0px 10px 0px}.h3-choose{font-size:15px;font-weight:normal;color:#272727;padding:0px
+0px 10px 0px}.right-padd{padding:10px
+9px 0px 9px}.join-big-btn{width:199px;text-decoration:none !important;padding:9px
+0px 9px 0px;text-align:center;color:#FCEAE8;display:block;background:#CB1218;background:-moz-linear-gradient(top, #CB1218 0%, #CB1218 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#CB1218), color-stop(100%,#CB1218));background:-webkit-linear-gradient(top,  #CB1218 0%,#CB1218 100%);background:-o-linear-gradient(top,  #CB1218 0%,#CB1218 100%);background:-ms-linear-gradient(top,  #CB1218 0%,#CB1218 100%);background:linear-gradient(top,  #CB1218 0%,#CB1218 100%);moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;font-size:12px;margin-bottom:13px}.join-big-btn:hover{background:#A60F12;background:-moz-linear-gradient(top, #A60F12 0%, #A60F12 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#A60F12), color-stop(100%,#A60F12));background:-webkit-linear-gradient(top,  #A60F12 0%,#A60F12 100%);background:-o-linear-gradient(top,  #A60F12 0%,#A60F12 100%);background:-ms-linear-gradient(top,  #A60F12 0%,#A60F12 100%);background:linear-gradient(top,  #A60F12 0%,#A60F12 100%);moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px}.join-big-btm{margin-bottom:10px}.join-big-btn
+h1{font-size:15px;margin:0px;padding:0px
+0px 3px 0px;color:#FDF8FC}.br-top{border-top:1px solid #D7D7D7}.br-btm{border-bottom:1px solid #D7D7D7}.bn-padd{padding:11px
+0px 10px 2px}.player-block-right
+p{background:url('http://images27.bangbros.com/bangbrosnetwork/tour1/check.gif') 4px 10px no-repeat;font-weight:bold;font-size:12px;padding:9px
+0px 9px 25px}.grey-dark{color:#363636 !important}.link-blue
+a{color:#0001FE;text-decoration:underline}.pl-padd{padding:9px
+10px 0px 12px}.trailer-list{float:left;width:476px}.trailer-list
+a{float:left;width:150px;height:110px;border:1px
+solid #000100;overflow:hidden;margin:0px
+10px 10px 0px}.trailer-list
+span{float:left;width:150px;height:110px;border:1px
+solid #000100;overflow:hidden;margin:0px
+10px 10px 0px}.trailer-member{float:right;width:353px}.trailer-block-height{height:484px !important;background-color:#454545}.trailer-block-height-tall{height:546px !important;background-color:#454545}.h3-member{font-size:15px;font-weight:normal;color:#fff;background-color:#000;padding:12px
+0px 12px 11px}.trailer-member
+h4{color:#fff;padding:0px
+0px 10px 0px;font-size:14px;font-weight:normal}.trailer-member-sub{padding:10px
+8px 0px 8px}.h4-trailer{border-bottom:1px solid #898989}.b-list{padding:9px
+0px 0px 0px}.b-list
+p{background:url("http://images26.bangbros.com/bangbrosnetwork/tour1/chkimage.jpg") 0px 1px no-repeat;font-weight:bold;font-size:13px;padding:0px
+0px 17px 26px;color:#fff}.btn-mar{margin-bottom:13px}.trial-btn{width:253px;height:38px;moz-border-radius:4px 0px 0px 4px;padding:13px
+0px 10px 0px;-webkit-padding:11px
+0 11px 0;text-align:center;color:#000 !important;float:left;font-size:12px;-webkit-border-radius:4px 0px 0px 4px;border-radius:4px 0px 0px 4px;background-color:#FFFF01}.trial-btn
+h1{font-size:19px;margin:0px;padding:0px
+0px 4px 0px;font-weight:normal;color:#000 !important}.clk-here{width:80px;padding:0px
+0px 0px 0px;text-align:center;color:#fff !important;float:left;font-size:14px;font-weight:bold;moz-border-radius:0px 4px 4px 0px;-webkit-border-radius:0px 4px 4px 0px;border-radius:0px 4px 4px 0px;background:#030031}.join-box
+a{text-decoration:none}.join-box{margin:0px;float:left;width:100%}.clk-price{float:left;width:100%}.price-a{float:left;font-size:20px;padding:0px
+1px 0px 0px}.price-b{float:left;font-size:11px;font-weight:normal;margin:-2px 0px 0px 0px}.price-one{padding:21px
+0px 21px 0px}.price-one .price-a{padding:0px
+2px 0px 15px}.price-two .price-a{padding:0px
+3px 0px 21px}.price-three{padding:7px
+0px 5px 0px}.price-three .price-a{padding:0px
+2px 0px 17px}.clk-text{float:left;width:100%;color:#fff;font-weight:normal;font-size:11px;padding:0px
+0px 5px 0px;line-height:12px}.tn-para{padding:10px
+0px 10px 0px}.price-monthly{padding:21px
+0px 19px 0px}.price-special{padding:21px
+0px 21px 0px;font-size:20px;font-weight:bold}.price-special
+sup{font-size:11px;font-weight:normal;margin:-2px 0px 0px 0px;vertical-align:text-top}@media screen and (-webkit-min-device-pixel-ratio:0){}#video_container{margin-left:auto;margin-right:auto}#video_container_wrapper{margin-left:auto;margin-right:auto}#end_of_video_container{margin-left:auto;margin-right:auto;display:block;position:relative;width:864px;height:486px;background-color:#363636}#join_container{margin-left:auto;margin-right:auto;display:block;position:relative;width:864px;height:486px}#join_container
+iframe{width:100%;height:100%}#out_of_previews_container{margin-left:auto;margin-right:auto;display:block;position:relative;width:864px;height:486px;background-color:#363636}.playerControlBar{position:absolute;bottom:0;left:0;height:24px;width:864px;background-color:#000;background-image:url(http://images23.bangbros.com/bangbrosnetwork/tour1/playerbar.png)}#playerPreviewsImageContainer{position:relative;top:27px;margin:0
+auto !important;width:632px}.playerPreviewImage{width:150px;height:110px;border:1px
+solid #000;margin:0
+6px 6px 0;float:left}.joinLink
+b{float:left;width:100%;font-size:48px;padding-bottom:11px}.joinLink
+span{color:#555;font-size:24px;font-weight:bold;float:left;width:100%}.join-list
+p{float:left;width:192px;height:173px;overflow:hidden;margin:0px
+43px 0px 0px}.join-list
+a{height:129px;width:190px;background:#999;overflow:hidden;display:block;border:1px
+solid #000}.join-box{border:1px
+solid #D7D7D7;width:100%;float:left}.join-box-main{padding:16px
+20px 11px 22px}.join-details{float:right;width:374px;padding:27px
+0px 0px 10px}.join-details
+h3{float:left;width:100%;height:31px;overflow:hidden;background:url('http://images21.bangbros.com/bangbrosnetwork/tour1/check.gif');color:#444;background-position:0px 1px;background-repeat:no-repeat;padding:0px
+0px 0px 32px;font-size:18px;font-weight:normal}.hd-text{background-image:url('http://images22.bangbros.com/bangbrosnetwork/tour1/hd.gif');background-repeat:no-repeat;width:258px;overflow:hidden;text-transform:uppercase;font-weight:bold;padding:13px
+0px 50px 85px;font-size:25px;float:right;margin:39px
+0px 0px 0px;color:#000}.hd-mov-text{float:right;width:351px;padding:5px
+0px 0px 0px;text-align:left;color:#444;font-size:18px}.join-form-details{float:left;width:513px}.join-option{border:1px
+solid #D7D7D7;height:68px;margin-bottom:7px;position:relative;width:510px}.paddingTop13{padding-top:10px;text-align:center;width:95%}.secureMain{margin:20px
+0 15px;text-align:center;color:#707070;width:95%}.secureTrans{background:url("http://images23.bangbros.com/bangbrosnetwork/tour1/secure.gif") no-repeat scroll left center transparent;display:inline;font-size:13px;margin-top:50px;padding:6px
+0 15px 30px}.join-radio{float:left;height:60px}.join-radio
+input{margin:25px
+0 0 15px}.join-text{float:left;font-size:20px;font-weight:bold;margin:13px
+0 0 17px;padding:0px
+0px 3px 0px;width:88%;color:#000}.join-small{color:#7E7A7B;float:left;font-size:11px;margin:1px
+0 0 17px}.bestDeal{background:url("http://images24.bangbros.com/bangbrosnetwork/tour1/deal_ico.gif") repeat scroll 0 0 transparent;height:56px;position:absolute;right:-11px;top:11px;width:94px}.btn_styl1
+a{font-family:tahoma;font-size:26px;height:38px;padding:5px
+35px 0}.join-btn
+a{background:url("http://images25.bangbros.com/bangbrosnetwork/tour1/linkbg.gif") repeat-x scroll left top #2154C7;border:4px
+solid #3E6DE1;color:#FFF;display:inline-block}.join-text
+sup{font-size:10px;vertical-align:text-top}.h3-head-larger{color:#828282;font-size:18px;font-weight:normal;padding:0px
+0px 0px 0px;margin:0px
+0px 0px -1px}.listItemMenu .sub-menu
+li{margin-right:6px !important}.buttonclass
+a{color:#000}.title-head-block
+h2{padding:0px
+0 2px;float:left}.home-content-box
+h2{border-bottom:1px solid #D7D7D7;height:40px;overflow:hidden;padding:0
+15px}.title-head-width
+a{float:right;font-size:11px;margin:6px
+0px 0px 0px}.btn_intro
+a{color:#FEFFFF;font-family:arial;font-size:19px;height:20px;padding:10px
+0 14px;width:96%;text-transform:uppercase}.join-btn
+a{border:4px
+solid #3E6DE1;color:#FFF;display:inline-block;text-align:center}.join-btn-button{border:4px
+solid #3E6DE1;color:white;display:inline-block;font-family:tahoma;font-size:26px;height:50px;width:430px;padding:5px
+35px 5px 35px;background-color:#2154C7;text-align:center;cursor:pointer}.join-top{padding:16px
+0px 0px 0px}.paddingtop13{padding-top:10px;text-align:center;width:95%}.paddingleft50top13{padding-left:50px;padding-top:13px}.pageWidth{width:990px}.normal{padding-left:10px;padding-top:5px;padding-bottom:10px;font-family:arial;font-size:13px}.image1{border:1px
+solid}#joinform .join-option:hover,
+#joinform .join-option:focus,
+#joinform .join-option:hover,
+#joinform .join-option:focus{background-color:#eff7f9;cursor:pointer}
