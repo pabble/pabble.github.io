@@ -1,5 +1,5 @@
 var timer = document.getElementById("timer");
-var date = new Date("Dec 27, 2019 17:00:00").getTime();
+var date = new Date("Dec 19, 2019 08:37:00").getTime();
 document.getElementById("fake").innerHTML = "pabble";
 
 
@@ -30,6 +30,10 @@ function updatetimer(){
     if (distance <= 0) {
         clearInterval(interval);
         timer.innerHTML = "COUNTDOWN FINISHED";
+        setTimeout(function(){
+            //jaja
+            window.location.replace("https://pabble.github.io/lol");
+        },1000);
     }
 
 }
