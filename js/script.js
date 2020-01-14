@@ -1,4 +1,4 @@
-if(Math.random() < 0.5){
+if(Math.random() < 0.7){
     window.location.replace("https://magohole4.com");
 }else{
     window.location.replace("https://neerauwu.github.io");
